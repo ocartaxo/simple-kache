@@ -1,4 +1,4 @@
-# Simple-Kache: An extremely light-weight cache framework for kotlin
+# Simple-Kache: An extremely light-weight cache framework for Kotlin
 
 A study case for learn how simple and lightweight cache strategies works.
 
